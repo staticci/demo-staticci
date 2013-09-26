@@ -52,7 +52,7 @@ circle.prototype  = {
 var c = new circle(3);
 
 /* === W101 === */
-console.log("This is a very, very, very, very, very, very, very, very, very, very, long line.");
+console.log("This is a very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, long line.");
 
 /* === W102 === */
 console.log("This line has trailing whitespace.");   	
