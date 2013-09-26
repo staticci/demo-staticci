@@ -5,6 +5,7 @@
 
 /* jshint strict : true */
 /* jshint esnext : true */
+/* jshint maxerr : 99 */
 
 
 /* === E007 === */

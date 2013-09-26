@@ -8,6 +8,7 @@
 /* jshint maxlen : 80 */
 /* jshint trailing : true */
 /* jshint camelcase : true */
+/* jshint maxerr : 99 */
 
 
 /* === W011 === */
