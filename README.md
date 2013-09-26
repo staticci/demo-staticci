@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-demo-staticci - Bad JavaScript for testing static analysis tools.
+Bad JavaScript for testing static analysis tools.
 --------------------------------------------------
 
 
