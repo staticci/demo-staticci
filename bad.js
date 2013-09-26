@@ -3,18 +3,28 @@
 // Warning: This is bad javascript - please use it only for testing static 
 // analysis tools.
 
+/* jshint strict : true */
+/* jshint esnext : true */
+
 
 /* === E007 === */
-
+function foo() {
+	console.log('hello');
+}
 
 /* === E011 === */
-
-
-/* === E031 === */
-
+const aConstant = 1;
+const aConstant = 2;
 
 /* === E035 === */
+function Square() {
+}
 
+Square.prototype  = {
+	get () {	// note the lack of a method name
+		return 0;
+	},
+};
 
 /* === E037 === */
 
@@ -33,6 +43,9 @@
 
 /* === W021 === */
 
+
+/* === W024 === */
+var false = 'hello';
 
 /* === W027 === */
 

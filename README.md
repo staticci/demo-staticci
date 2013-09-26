@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 demo-staticci - Bad JavaScript for testing static analysis tools.
 --------------------------------------------------
 
@@ -12,3 +13,9 @@ Warning: There are many bugs and security problems with this code. Please do not
 This code is distributed under the MIT License.
 
 
+=======
+demo-staticci
+=============
+
+Bad JavaScript for testing static analysis tools.
+>>>>>>> 1910eb1f80eb4e7ff4a0915145e82083bcb5cdbe
